@@ -1,0 +1,22 @@
+#bodyTag {
+	text-align: center;
+	font-family: Calibri;
+	background: linear-gradient(rgb(245, 221, 255) 0%, rgb(209, 240, 255) 100%);
+}
+#status {
+	font-size: 18px;
+	background: rgb(233, 179, 255);
+	border-color: rgb(176, 230, 255);
+	border-radius: 20px;
+	font-size: 14px;
+	color: #ffffff;
+	border-style: dotted;
+}
+canvas {
+	background: rgb(176, 230, 255);
+	border-radius: 20px;
+	font-size: 14px;
+	color: rgb(233, 179, 255);
+	border-style: dotted;
+	border-color: rgb(233, 179, 255);
+}
